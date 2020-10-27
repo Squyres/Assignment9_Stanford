@@ -1,0 +1,5 @@
+1.
+The problem with the first method is that it will return false.
+
+2.
+The second method will return true assuming that an uppercase Q is typed.
